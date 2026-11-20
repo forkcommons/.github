@@ -15,4 +15,8 @@ When a product people rely on gets bought and squeezed (prices up, staff and fea
 
 We work with existing open-source projects first and build only where nothing exists.
 
+### Projects
+
+[**CuePorch**](https://github.com/ForkCommons/CuePorch) is an open-source video publishing platform for creators, arts organizations and public media. Full Vimeo parity is in development.
+
 Early days. More soon at [forkcommons.org](https://forkcommons.org).
